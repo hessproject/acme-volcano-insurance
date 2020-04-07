@@ -1,4 +1,5 @@
 # Acme Volcano Insurance Client 
+A coding exercise for the interview process with SURE
 
 ## Installation
 The necessary dependencies required to run this package are included in the requirements file. To install, use: `pip install -r requirements.txt` The actual client is contained in client/acme.py
