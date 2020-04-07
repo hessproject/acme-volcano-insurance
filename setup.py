@@ -11,7 +11,7 @@ setuptools.setup(
     description='Client for SURE Acme API',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/hessproject/sure_interview',
+    url='https://github.com/hessproject/acme-volcano-insurance',
     packages=setuptools.find_packages(),
     classifiers=[
         'Programming Language :: Python :: 3',
