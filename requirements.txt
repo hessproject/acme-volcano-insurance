@@ -24,7 +24,7 @@ PySocks==1.7.1
 pytest==5.4.1
 requests==2.23.0
 six==1.14.0
-urllib3==1.25.8
+urllib3==1.26.5
 wcwidth==0.1.9
 win-inet-pton==1.1.0
 wincertstore==0.2
